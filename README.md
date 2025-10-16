@@ -1,10 +1,10 @@
 # Call-Center-Trend-
 This is Power Bi Virtual case experience offered by forage where i got opportunity to work with three real time data tasks to build insights. 1.Call Centre Trends- Developed CALL CENTERTREND DASHBOARD offering insights for improve potential improvement analysis of customer and agents' behaviour
 Call Center Trend Analyisis
-1.	Background and Overview
+1.DataBackground and Overview
 This dashboard was developed as part of a virtual internship simulation by PwC through Forage. The task was to create a comprehensive analytical report on Call Center Trends using realistic datasets. The goal was to help stakeholders assess call performance, agent productivity, and customer satisfaction over time.
 
-2️⃣Data Structure and Overview
+2.Data Structure and Overview
 The project involved two main datasets:
 •	Call Dataset:
 o	Date of Call
@@ -18,7 +18,7 @@ o	Time Spent per Call
 o	Customer Feedback & Performance Metrics
 The data was loaded into Power BI, cleansed, modeled, and visualized using appropriate charts and KPIs.
 ________________________________________
-3️⃣ Executive Summary
+3. Executive Summary
 •	📞 Total Calls Answered: 4,054
 •	✔️ Total Resolved Calls: 3,646
 •	👨💼 Total Agents: 8
@@ -26,7 +26,7 @@ ________________________________________
 •	📅 Time Frame: Jan 2021 – Mar 2021
 The dashboard provides a high-level view of monthly trends, agent-wise satisfaction, and topic-level resolution metrics—making it easy for management to spot performance bottlenecks.
 ________________________________________
-4️⃣ Insight Deep Dive
+4. Insight Deep Dive
 🔹 Agent Performance & Satisfaction
 •	Jim, Dan, and Martha each have high satisfaction ratings (~1.8K each).
 •	Becky has the lowest among the team (~1.7K), suggesting room for improvement.
@@ -46,7 +46,7 @@ ________________________________________
 🔹 %GT AvgTalkTimeOf Over Time
 •	January saw the highest average talk time, which declined over the next two months.
 ________________________________________
-5️⃣ Recommendations
+5 Recommendations
 ✔️ Agent Training:
 •	Focus on upskilling lower-rated agents (e.g., Becky) for consistency.
 ✔️ Self-Service Options:
